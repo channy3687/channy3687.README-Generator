@@ -1,0 +1,23 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "Generates a professional README for a new project.",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/channy3687/README_generator.git"
+  },
+  "author": "Channy Nguon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/channy3687/README_generator/issues"
+  },
+  "homepage": "https://github.com/channy3687/README_generator#readme"
+}
